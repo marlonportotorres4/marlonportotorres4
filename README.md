@@ -4,9 +4,9 @@
 <p align="center">Currently a third-year computer science student at Uninassau. <br><br> Passionate about solving problems through technology, I'm completely in love with the course, I'm always trying to improve my skills and knowledge of the area. Below you'll see some of my skills, the main stacks and databases are the ones I have some knowledge of, I also have secondary stacks, which are tools that I've already worked with, for example, on a college project. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=85% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marlonportotorres4&theme=radical&mode=weekly" />
+<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marlonportotorres4&theme=radical&mode=weekly" />
 
-<img width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonportotorres4&layout=compact&theme=radical" />
+<img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonportotorres4&layout=compact&theme=radical" />
 
  </div>
  
