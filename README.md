@@ -67,7 +67,7 @@ Passionate about solving problems through technology, I am always trying to impr
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=marlonportotorres4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
