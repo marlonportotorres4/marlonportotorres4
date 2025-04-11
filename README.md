@@ -59,6 +59,7 @@ Passionate about solving problems through technology, I am always trying to impr
 - Cloud Computing (AWS)  
 
 <br/>
+<br/>
 
 ### 📊 Stats
 
@@ -67,7 +68,7 @@ Passionate about solving problems through technology, I am always trying to impr
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 5px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marlonportotorres4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -81,4 +82,3 @@ Passionate about solving problems through technology, I am always trying to impr
 </p>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
