@@ -5,7 +5,6 @@
 Passionate about solving problems through technology, I am always trying to improve my skills and knowledge of the area. Currently my main interests are using python in the area of AI and Machine learning, as well as using AWS cloud to solve problems and develop software.
 
 <p align="left">
-<a href="https://www.instagram.com/marlontorrs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:contato.marlonptorres6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/marlon-porto-190865272?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </p>
@@ -47,9 +46,22 @@ Passionate about solving problems through technology, I am always trying to impr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+
 <br/>
 
 ---
+
 
 ### 🧠 Interests
 
@@ -57,6 +69,8 @@ Passionate about solving problems through technology, I am always trying to impr
 - Artificial Intelligence  
 - DevOps  
 - Cloud Computing (AWS)  
+- SQL
+- Data
 
 <br/>
 <br/>
