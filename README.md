@@ -1,8 +1,9 @@
 # Hi, my name is Marlon Torres! 👋
 
 
+My main interests are using python in the area of AI and Machine learning, as well as using AWS cloud to solve problems and develop software.
 
-Passionate about solving problems through technology, I am always trying to improve my skills and knowledge of the area. Currently my main interests are using python in the area of AI and Machine learning, as well as using AWS cloud to solve problems and develop software.
+I am currently studying Machine learning and improving my programming logic.
 
 <p align="left">
 <a href = "mailto:contato.marlonptorres6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
