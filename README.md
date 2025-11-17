@@ -1,10 +1,6 @@
-# Hi, my name is Marlon Torres! 👋
+# Olá, me chamo Marlon Torres!
 
-
-My main interests are using python in the area of AI and Machine learning, as well as using AWS cloud to solve problems and develop software.
-
-I am currently studying Machine learning and improving my programming logic.
-
+Sou um Profissional com foco na área de dados, principalmente Análise e Ciência de dados! Utilizo da minha capacidade analítica, conhecimentos estatísticos e técnicos, como python, Machine Learning, SQL, PowerBI e Excel para resolver problemas, desenvolver ideias e storytelling relacionado aos dados.
 <p align="left">
 <a href = "mailto:contato.marlonptorres6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/marlon-porto-190865272?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
@@ -12,66 +8,16 @@ I am currently studying Machine learning and improving my programming logic.
 
 ---
 
-### 🤖 Skills
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-
-<br/>
-
----
-
-
-### 🧠 Interests
-
+### 🧠 Interests & Skills
+- Python
 - Machine Learning  
-- Artificial Intelligence  
-- DevOps  
 - Cloud Computing (AWS)  
 - SQL
 - Data
+- PowerBI
+- Excel
+- Estatística
 
 <br/>
 <br/>
